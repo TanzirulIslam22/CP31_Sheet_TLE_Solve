@@ -7,7 +7,7 @@ bool check(string s, string x)
     {
         return false;
     }
-    for (int i = 0; i < x.size() - s.size() + 1; i++)
+    for (int i = 0; i < x.size() - s.size() + 1; i++) 
     {
         if (x.substr(i, s.size()) == s)
         {
