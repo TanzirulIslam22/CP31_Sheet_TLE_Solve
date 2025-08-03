@@ -1,0 +1,1 @@
+{"name":"Local: 09_1877A","url":"d:\\All Codes\\CP\\CP-31 Sheet TLE\\800_Ratings\\09_1877A.cpp","tests":[{"id":1754223215276,"input":"2\n4\n3 -4 5\n11\n-30 12 -57 7 0 -81 -68 41 -89 0\n","output":"-4\n265\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\All Codes\\CP\\CP-31 Sheet TLE\\800_Ratings\\09_1877A.cpp","group":"local","local":true}
